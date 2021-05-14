@@ -1,0 +1,5 @@
+hello everyone.
+welcome to 2019.
+This is c programming.
+we are handling files
+c is fun.

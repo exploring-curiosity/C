@@ -1,0 +1,4 @@
+student1 average :86.000000
+student2 average :80.500000
+student3 average :70.500000
+class avg:79.000000
